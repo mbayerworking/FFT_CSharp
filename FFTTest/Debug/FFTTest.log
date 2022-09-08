@@ -1,0 +1,8 @@
+﻿  FFTTest.cpp
+C:\Users\12537\source\repos\FFTTest\FFTTest\FFTTest.cpp(27,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\12537\source\repos\FFTTest\FFTTest\FFTTest.cpp(52): message : see reference to function template instantiation 'void fft<cx*>(Iter_T,Iter_T,int)' being compiled
+          with
+          [
+              Iter_T=cx *
+          ]
+  FFTTest.vcxproj -> C:\Users\12537\source\repos\FFTTest\Debug\FFTTest.exe
